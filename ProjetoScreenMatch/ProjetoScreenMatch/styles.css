@@ -1,0 +1,8 @@
+.button {
+    -fx-background-color: #2196F3; /* Azul */
+    -fx-text-fill: white;
+}
+
+#sairButton {
+    -fx-background-color: #FF0000; /* Vermelho */
+}
